@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chinmay</h1>
+<h1 align="center">Hi 👋, I'm Chinmay Haval</h1>
 <h3 align="center">Pre-final year student at IIIT Dharwad, Interested in App development ,Data analytics and Data engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=havalchinmay&label=Profile%20views&color=0e75b6&style=flat" alt="havalchinmay" /> </p>
