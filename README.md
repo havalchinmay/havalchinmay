@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chinmay Haval</h1>
-<h3 align="center">Final year student at IIIT Dharwad, Interested in App development ,Data analytics and Data engineering.</h3>
+<h3 align="center">Final-year student at IIIT Dharwad with a focus on AI-driven solutions, cloud infrastructure, and automation, with experience in Terraform, LangChain, and data analytics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=havalchinmay&label=Profile%20views&color=0e75b6&style=flat" alt="havalchinmay" /> </p>
 
