@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=havalchinmay&label=Profile%20views&color=0e75b6&style=flat" alt="havalchinmay" /> </p>
 
-- 🔭 I’m currently working on [Realtime-Sentiment-Analysis-Using-Spark-hadoop-and-kafka](https://github.com/havalchinmay/Realtime-Sentiment-Analysis-on-2020-US-Elections-Using-Spark-hadoop-and-kafka.git)
-
-- 🌱 I’m currently learning **Designing ETL pipelines using Apache Spark, writing efficient SQL queries for data extraction and transformation. for large-scale data processing.**
+- 🔭 I’m currently working at Oracle as a Project Intern
+- 🌱 I’m currently learning **Agentic AI, Langchain, Langgraph, Python, Fast-API, Terraform**
 
 - 👨‍💻 All of my projects are available at [https://github.com/havalchinmay](https://github.com/havalchinmay)
 
-- 💬 Ask me about **Flutter, Dart, Python, DSA, Spark, SQL**
+- 💬 Ask me about **Python, Fast-API, C++, DSA, Langchain, AI/ML**
 
 - 📫 How to reach me **havalchinmay@gmail.com**
 
